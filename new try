@@ -1,1 +1,7 @@
-task1:to give name and department 
+task1:to print name and department 
+#include<stdio.h>
+void main()
+{
+printf("Name:Sujithra.S.V ");
+printf("Class:12 A");
+}
